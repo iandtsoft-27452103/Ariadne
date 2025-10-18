@@ -2,6 +2,10 @@
 
 This repository is read-only, so Pull Request is not accepted. Thank you for your understanding.
 
+# Caution
+
+If you use this software for commercial, you must pay fees to NVIDIA.
+
 # Ariadne
 
 Ariadne is a shogi engine.
@@ -24,7 +28,9 @@ Gated Recurrent Unit Policy Neural Network predicts best move of current positio
 
 ### Input Features of Gated Recurrent Unit Policy Neural Network
 
-...
+(1) square which a piece move to
+
+(2) move direction
 
 ### Convolutional Value Neural Network
 
